@@ -1,6 +1,6 @@
 # DNA Center toolbox
 
-*Scripts to work with DNA Center API and pull data.  DNA Center Toolbox will continue to expand and at new features over time.  A list of current features and functionality can be found below*
+*Scripts to work with DNA Center API and pull data.  DNA Center Toolbox will continue to expand and add new features over time.  A list of current features and functionality can be found below*
 
 ---
 
